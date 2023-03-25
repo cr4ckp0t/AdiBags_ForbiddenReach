@@ -83,10 +83,6 @@ function reachFilter:OnInitialize()
         [204560] = true, -- Azure Scrying Crystal
         [204352] = true, -- Leftover Elemental Slime
         [192785] = true, -- Gooey Snailemental
-        [204577] = true, -- Condensed Nature Magic
-        [204575] = true, -- Condensed Earth Magic
-        [204573] = true, -- Condensed Fire Magic
-        [204574] = true, -- Condensed Frost Magic
         [193374] = true, -- Ashenwing
         [192772] = true, -- Ancient Salamanther
         [193364] = true, -- Scruffles
