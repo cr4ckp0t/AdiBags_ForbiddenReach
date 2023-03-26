@@ -56,6 +56,19 @@ function reachFilter:OnInitialize()
         [203649] = true, -- Primalist Trinket
         [203650] = true, -- Primalist Weapon
 
+        -- Mossy Mammoth
+        [204360] = true, -- Strange Petrified Orb
+        [204369] = true, -- Scrap of Black Dragonscale
+        [204363] = true, -- Particularly Ordinary Egg
+        [204371] = true, -- Drop of Blue Dragon Magic
+        [204364] = true, -- Magically Altered Egg
+        [204375] = true, -- Everburning Ruby Coals
+        [204366] = true, -- Egg of Unknown Contents
+        [204372] = true, -- Speck of Bronze Dust
+        [204367] = true, -- Sleeping Ancient Mammoth
+        [204374] = true, -- Emerald Dragon Brooch
+        [192790] = true, -- Mossy Mammoth
+
         -- Miscellaneous Items
         [204276] = true, -- Untapped Forbidden Knowledge
         [203217] = true, -- Dragonscale Surplus Crate
