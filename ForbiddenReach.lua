@@ -122,6 +122,7 @@ function reachFilter:OnInitialize()
         [203417] = true, -- Razor-Sharp Animal Bone
         [203406] = true, -- Torn Morqut Kite
         [203415] = true, -- Traditional Morqut Kite
+        [203772] = true, -- Experimental Dragon Pack
     }
 end
 
