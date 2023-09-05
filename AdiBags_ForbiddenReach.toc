@@ -1,6 +1,6 @@
-## Interface: 100105
+## Interface: 100107
 ## Title: AdiBags - Forbidden Reach
-## Version: 1.0.5
+## Version: 1.0.6
 ## Author: Crackpot
 ## Notes: Creates AdiBags filter for Forbidden Reach and Primordial Stones from patch 10.0.7.
 ## X-Category: Bags & Inventory
@@ -9,5 +9,6 @@
 Localization.lua
 ForbiddenReach.lua
 PrimordialStones.lua
+
 
 
